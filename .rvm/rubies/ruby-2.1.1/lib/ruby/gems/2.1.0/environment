@@ -1,0 +1,3 @@
+export PATH="/Users/syc/.rvm/gems/ruby-2.0.0-p451/bin:/Users/syc/.rvm/gems/ruby-2.0.0-p451@global/bin:$PATH"
+export GEM_PATH=".rvm/rubies/ruby-2.1.1/lib/ruby/gems/2.1.0"
+export GEM_HOME=".rvm/rubies/ruby-2.1.1/lib/ruby/gems/2.1.0"
